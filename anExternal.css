@@ -1,0 +1,70 @@
+body{
+    
+}
+
+p{
+    color: red; font-family: "Arial";
+}
+
+h3{
+    color: green; font-size: 50px; font-family: "Arial"; margin-bottom: 0px; 
+}
+
+li{
+    
+}
+
+#Header{
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border: solid 10px red;
+    text-align: center;
+}
+
+#Header h1{
+    font-size: 50px; font-family: "Passion+One"; color: red;
+    
+}
+
+#LeftNav{
+    float: left;
+    border: solid 10px green;
+    text-align: center;
+}
+
+#LeftNav ul{
+   color: black;
+   padding-bottom: 10px;
+}
+
+#LeftNav h3{
+
+}
+
+#Content{
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+    border: solid 10px yellow;
+}
+
+#Footer{
+    
+}
+
+ul{
+   font-size: 5px;  
+}
+
+div{
+    
+}
+
+a{
+    color: black;
+    font-weight: thin;
+    font-size: 15px;
+}
